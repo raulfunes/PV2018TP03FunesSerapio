@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package punto1;
+package punto4;
 
 /**
  *
  * @author Windows10
  */
-public class Principal02 {
-    public static void main (String[] args){
-        Punto1 punto1=new Punto1();
-        punto1.calcularDistancia();
+public class Principal04 {
+    public static void main(String[] args){
+        Punto6 punto6= new Punto6();
+        punto6.llenarLista();
     }
 }

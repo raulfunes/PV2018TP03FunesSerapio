@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package punto6;
+package punto4;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;

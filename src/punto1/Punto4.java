@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package punto4;
+package punto1;
 
 import java.util.Scanner;
 
